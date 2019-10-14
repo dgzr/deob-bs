@@ -1,5 +1,3 @@
-## Deobfuscated Bash Sheell
-https://camo.githubusercontent.com/670b10f942e408b66ccbd22324ba892b603a53ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d322e372d677265656e2e737667
 ## Installing
 ```
 $ pkg install git
