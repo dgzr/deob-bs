@@ -3,7 +3,7 @@
 $ pkg install git
 $ pkg install python2
 $ pip2 install mechanize
-$ git clone https://github.com/Zen-Clay/decbash.git
+$ git clone https://github.com/Zen-Ezz/decbash.git
 $ cd decbash
 $ python2 decbash.py
 ```
