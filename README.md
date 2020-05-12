@@ -1,16 +1,18 @@
-## Installing
-```
-$ pkg install git
-$ pkg install python2
-$ pip2 install mechanize
-$ git clone https://github.com/Zen-Ezz/decbash.git
-$ cd decbash
-$ python2 decbash.py
-```
+![](ttps://img.shields.io/badge/python-3.8.x-yellowgreen)
+##### required
+[Argparse](https://pypi.org/project/argparse/)
 
-### In tools
-<a href="https://ibb.co/SK3Vq84"><img src="https://i.ibb.co/khSqYfs/20191014-121507-picsayjnjj.jpg" alt="20191014-121507-picsayjnjj" border="0"></a>
-## Ask Me On
-* [YouTube](https://www.youtube.com/channel/UCopf7XF5D5hVyx2TePHl-pw)
-* [Facebook](https://www.facebook.com/fatahul.ulum.1)
-* [Instagram](https://www.instagram.com/aditiastrom)
+[Python3.8.x](https://www.python.org/downloads/)
+
+ + One command
+--------
+```
+cat file.sh | sed 's/eval/echo/' | sh > out.sh && cat out.sh
+```
+--------
+
+Mungkin bisa membantu ,atau mungkin juga tidak
+Karena sesuatu akan terasa lebih berguna pada tempatnya
+Masing masing
+
+[Bash-obfuscate](https://www.npmjs.com/package/bash-obfuscate)
